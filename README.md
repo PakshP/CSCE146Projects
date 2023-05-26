@@ -1,2 +1,2 @@
-# CSCE146Projects
-All CSCE145 Projects 
+# ALl CSCE146 Projects
+Here you can find the collection of my projects in Algorithmic Design I
